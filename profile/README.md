@@ -20,18 +20,17 @@
 ```mermaid
 graph TD
     A[01_프로그래밍 기초 주간]
-    A1[python]
-    A2[mysql]
-    A3[data collection]
-
+    A1[Python]
+    A2[MySQL]
+    A3[Data Collection]
     A --> A1
     A --> A2
     A --> A3
 
     click A "https://github.com/orgs/skn-ai14-250409/projects/1" "프로그래밍 기초"
-    click A1 "https://github.com/skn-ai14-250409/python_workspace" "프로그래밍 기초 - python"
-    click A2 "https://github.com/skn-ai14-250409/mysql_workspace" "프로그래밍 기초 - mysql"
-    click A3 "https://github.com/skn-ai14-250409/data_collection_workspace" "프로그래밍 기초 - data collection"
+    click A1 "https://github.com/skn-ai14-250409/python_workspace" "프로그래밍 기초 - Python"
+    click A2 "https://github.com/skn-ai14-250409/mysql_workspace" "프로그래밍 기초 - MySQL"
+    click A3 "https://github.com/skn-ai14-250409/data_collection_workspace" "프로그래밍 기초 - Data Collection"
 
 ```
 ###### [단위프로젝트1] _전국 자동차 등록 현황 및 기업 FAQ 조회시스템_
