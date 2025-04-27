@@ -47,12 +47,12 @@ graph TD
         A6[SKN14-1st-6Team Project]
 
         %% B1["SKN14-1st-1Team<br><sub>세부내용</sub>"]
-        B1[SKN14-1st-1Team]
-        B2[SKN14-1st-2Team]
-        B3[SKN14-1st-3Team]
-        B4[SKN14-1st-4Team]
-        B5[SKN14-1st-5Team]
-        B6[SKN14-1st-6Team]
+        B1[SKN14-1st-1Team<br>차종간 스펙 비교]
+        B2[SKN14-1st-2Team<br>사회 초년생을 위한 첫차 추천]
+        B3[SKN14-1st-3Team<br>목적지 주변 주차장 검색]
+        B4[SKN14-1st-4Team<br>전기차 충전소 위치 및 주변 편의시설 정보 제공]
+        B5[SKN14-1st-5Team<br>여행 전 사고 다발 지역 안내]
+        B6[SKN14-1st-6Team<br>자동차 리콜정보]
 
         A1 -.- B1
         A2 -.- B2
@@ -80,5 +80,20 @@ graph TD
 
 ```
 
+### [02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+```mermaid
+graph TD
+    A[02_AI 기초 주간]
+    A1[Data Analysis]
+    A2[Machine Learning]
+    A3[Deep Learning]
+    A --> A1
+    A --> A2
+    A --> A3
 
+    click A "https://github.com/orgs/skn-ai14-250409/projects/30" "AI 기초"
+    click A1 "https://github.com/skn-ai14-250409/data_analysis_workspace" "AI 기초 - Data Analysis"
+    click A2 "https://github.com/skn-ai14-250409/machine_learning_workspace" "AI 기초 - Machine Learning"
+    click A3 "https://github.com/skn-ai14-250409/deep_learning_workspace" "AI 기초 - Deep Learning"
 
+```
