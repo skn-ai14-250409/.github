@@ -34,6 +34,52 @@ graph TD
 
 ```
 
+###### 우리들의 EDA
+
+```mermaid
+graph TD
+    
+    subgraph 우리들의 EDA
+        A1[SKN14-1st-1Team EDA]
+        A2[SKN14-1st-2Team EDA]
+        A3[SKN14-1st-3Team EDA]
+        A4[SKN14-1st-4Team EDA]
+        A5[SKN14-1st-5Team EDA]
+        A6[SKN14-1st-6Team EDA]
+
+        %% B1["SKN14-1st-1Team<br><sub>세부내용</sub>"]
+        B1[SKN14-EDA-1Team<br>라이프스타일에 따른 수면건강]
+        B2[SKN14-EDA-2Team<br>사과 품질 예측]
+        B3[SKN14-EDA-3Team<br>국가별 행복지수 요인분석]
+        B4[SKN14-EDA-4Team<br>펭귄 종에 따른 특성 분석]
+        B5[SKN14-EDA-5Team<br>신규 OTT 서비스 전략 분석]
+        B6[SKN14-EDA-6Team<br>항공 승객 만족도 분석]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+        A5 -.- B5
+        A6 -.- B6
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai14-250409/projects/32" "SKN14-EDA-1Team"
+    click A2 "https://github.com/orgs/skn-ai14-250409/projects/33" "SKN14-EDA-2Team"
+    click A3 "https://github.com/orgs/skn-ai14-250409/projects/34" "SKN14-EDA-3Team"
+    click A4 "https://github.com/orgs/skn-ai14-250409/projects/35" "SKN14-EDA-4Team"
+    click A5 "https://github.com/orgs/skn-ai14-250409/projects/36" "SKN14-EDA-5Team"
+    click A6 "https://github.com/orgs/skn-ai14-250409/projects/37" "SKN14-EDA-6Team"
+
+    click B1 "https://github.com/skn-ai14-250409/SKN14-EDA-1Team" "SKN14-EDA-1Team"
+    click B2 "https://github.com/skn-ai14-250409/SKN14-EDA-2Team" "SKN14-EDA-2Team"
+    click B3 "https://github.com/skn-ai14-250409/SKN14-EDA-3Team" "SKN14-EDA-3Team"
+    click B4 "https://github.com/skn-ai14-250409/SKN14-EDA-4Team" "SKN14-EDA-4Team"
+    click B5 "https://github.com/skn-ai14-250409/SKN14-EDA-5Team" "SKN14-EDA-5Team"
+    click B6 "https://github.com/skn-ai14-250409/SKN14-EDA-6Team" "SKN14-EDA-6Team"
+
+```
 
 ### [01_프로그래밍 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/1)
 ```mermaid
