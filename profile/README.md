@@ -22,7 +22,7 @@ graph TD
     A[02_AI 기초 주간]
     A1[Data Analysis]
     A2[Machine Learning]
-    A3[Deep Learning]
+    A3[Deep Learning Basic]
     A --> A1
     A --> A2
     A --> A3
@@ -30,7 +30,7 @@ graph TD
     click A "https://github.com/orgs/skn-ai14-250409/projects/30" "AI 기초"
     click A1 "https://github.com/skn-ai14-250409/data_analysis_workspace" "AI 기초 - Data Analysis"
     click A2 "https://github.com/skn-ai14-250409/machine_learning_workspace" "AI 기초 - Machine Learning"
-    click A3 "https://github.com/skn-ai14-250409/deep_learning_workspace" "AI 기초 - Deep Learning"
+    click A3 "https://github.com/skn-ai14-250409/deep_learning_basic_workspace" "AI 기초 - Deep Learning Basic"
 
 ```
 
