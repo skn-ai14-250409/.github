@@ -81,6 +81,53 @@ graph TD
 
 ```
 
+###### [단위프로젝트2] _가입 고객 이탈 예측_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트2
+        A1[SKN14-2nd-1Team Project]
+        A2[SKN14-2nd-2Team Project]
+        A3[SKN14-2nd-3Team Project]
+        A4[SKN14-2nd-4Team Project]
+        A5[SKN14-2nd-5Team Project]
+        A6[SKN14-2nd-6Team Project]
+
+        %% B1["SKN14-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN14-2nd-1Team<br>구독 서비스 이용객 이탈률 예측]
+        B2[SKN14-2nd-2Team<br>은행 고객 특성에 따른 이탈률 예측]
+        B3[SKN14-2nd-3Team<br>이커머스 이탈 고객 예측]
+        B4[SKN14-2nd-4Team<br>헬스장 고객 이탈 예측]
+        B5[SKN14-2nd-5Team<br>이커머스 이탈 고객 예측]
+        B6[SKN14-2nd-6Team<br>학생들의 학업 중도 이탈률 예측]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+        A5 -.- B5
+        A6 -.- B6
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai14-250409/projects/39" "SKN14-2nd-1Team"
+    click A2 "https://github.com/orgs/skn-ai14-250409/projects/40" "SKN14-2nd-2Team"
+    click A3 "https://github.com/orgs/skn-ai14-250409/projects/41" "SKN14-2nd-3Team"
+    click A4 "https://github.com/orgs/skn-ai14-250409/projects/42" "SKN14-2nd-4Team"
+    click A5 "https://github.com/orgs/skn-ai14-250409/projects/43" "SKN14-2nd-5Team"
+    click A6 "https://github.com/orgs/skn-ai14-250409/projects/44" "SKN14-2nd-6Team"
+
+    click B1 "https://github.com/skn-ai14-250409/SKN14-2nd-1Team" "SKN14-2nd-1Team"
+    click B2 "https://github.com/skn-ai14-250409/SKN14-2nd-2Team" "SKN14-2nd-2Team"
+    click B3 "https://github.com/skn-ai14-250409/SKN14-2nd-3Team" "SKN14-2nd-3Team"
+    click B4 "https://github.com/skn-ai14-250409/SKN14-2nd-4Team" "SKN14-2nd-4Team"
+    click B5 "https://github.com/skn-ai14-250409/SKN14-2nd-5Team" "SKN14-2nd-5Team"
+    click B6 "https://github.com/skn-ai14-250409/SKN14-2nd-6Team" "SKN14-2nd-6Team"
+
+```
+
 ### [01_프로그래밍 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/1)
 ```mermaid
 graph TD
