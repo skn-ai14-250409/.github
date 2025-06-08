@@ -16,7 +16,25 @@
 
 ## 강의 소스코드 저장소 
 
-### [02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [03_AI 자연어처리 주간](https://github.com/orgs/skn-ai14-250409/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+```mermaid
+graph TD
+    A[03_AI 자연어처리 주간]
+    A1[Deep Learning NLP]
+    A2[LLM]
+    A3[Deep Learning Multimodal]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/skn-ai14-250409/projects/47" "AI 기초"
+    click A1 "https://github.com/skn-ai14-250409/deep_learning_nlp_workspace" "AI 자연어처리 - Deep Learning NLP"
+    click A2 "https://github.com/skn-ai14-250409/llm_workspace" "AI 자연어처리 - LLM"
+    click A3 "https://github.com/skn-ai14-250409/deep_learning_multimodal_workspace" "AI 자연어처리 - Deep Learning Multimodal"
+
+```
+
+### [02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/30) 
 ```mermaid
 graph TD
     A[02_AI 기초 주간]
