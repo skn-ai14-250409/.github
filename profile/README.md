@@ -34,6 +34,48 @@ graph TD
 
 ```
 
+###### [단위프로젝트3] _LLM 연동 내외부 문서 기반 질의 응답 시스템_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트3
+        A1[SKN14-3rd-1Team Project]
+        A2[SKN14-3rd-2Team Project]
+        A3[SKN14-3rd-3Team Project]
+        A4[SKN14-3rd-4Team Project]
+        A5[SKN14-3rd-5Team Project]
+
+        %% B1["SKN14-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN14-3rd-1Team<br>🍉]
+        B2[SKN14-3rd-2Team<br>🍋]
+        B3[SKN14-3rd-3Team<br>🍏]
+        B4[SKN14-3rd-4Team<br>🥝]
+        B5[SKN14-3rd-5Team<br>🥑]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+        A5 -.- B5
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai14-250409/projects/52" "SKN14-3rd-1Team"
+    click A2 "https://github.com/orgs/skn-ai14-250409/projects/51" "SKN14-3rd-2Team"
+    click A3 "https://github.com/orgs/skn-ai14-250409/projects/50" "SKN14-3rd-3Team"
+    click A4 "https://github.com/orgs/skn-ai14-250409/projects/49" "SKN14-3rd-4Team"
+    click A5 "https://github.com/orgs/skn-ai14-250409/projects/48" "SKN14-3rd-5Team"
+
+    click B1 "https://github.com/skn-ai14-250409/SKN14-3rd-1Team" "SKN14-3rd-1Team"
+    click B2 "https://github.com/skn-ai14-250409/SKN14-3rd-2Team" "SKN14-3rd-2Team"
+    click B3 "https://github.com/skn-ai14-250409/SKN14-3rd-3Team" "SKN14-3rd-3Team"
+    click B4 "https://github.com/skn-ai14-250409/SKN14-3rd-4Team" "SKN14-3rd-4Team"
+    click B5 "https://github.com/skn-ai14-250409/SKN14-3rd-5Team" "SKN14-3rd-5Team"
+
+```
+
 ### [02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/30) 
 ```mermaid
 graph TD
