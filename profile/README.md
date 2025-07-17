@@ -16,7 +16,27 @@
 
 ## 강의 소스코드 저장소 
 
-### [03_AI 자연어처리 주간](https://github.com/orgs/skn-ai14-250409/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+
+### [04_웹서비스 주간](https://github.com/orgs/skn-ai14-250409/projects/56) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+```mermaid
+graph TD
+    A[04_웹서비스 주간]
+    A1[Web Client]
+    A2[Django]
+    A3[DevOps]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/skn-ai14-250409/projects/56" "웹서비스"
+    click A1 "https://github.com/skn-ai14-250409/web_client_workspace" "Web Client - HTML/CSS/Javascript"
+    click A2 "https://github.com/skn-ai14-250409/django_workspace" "Web Server - Django"
+    click A3 "https://github.com/skn-ai14-250409/devops_workspace" "DevOps - Linux/Cloud"
+
+```
+
+
+### [03_AI 자연어처리 주간](https://github.com/orgs/skn-ai14-250409/projects/30) 
 ```mermaid
 graph TD
     A[03_AI 자연어처리 주간]
@@ -73,24 +93,6 @@ graph TD
     click B3 "https://github.com/skn-ai14-250409/SKN14-3rd-3Team" "SKN14-3rd-3Team"
     click B4 "https://github.com/skn-ai14-250409/SKN14-3rd-4Team" "SKN14-3rd-4Team"
     click B5 "https://github.com/skn-ai14-250409/SKN14-3rd-5Team" "SKN14-3rd-5Team"
-
-```
-
-### [04_웹서비스 주간](https://github.com/orgs/skn-ai14-250409/projects/56)
-```mermaid
-graph TD
-    A[04_웹서비스 주간]
-    A1[Web Client]
-    A2[Django]
-    A3[DevOps]
-    A --> A1
-    A --> A2
-    A --> A3
-
-    click A "https://github.com/orgs/skn-ai14-250409/projects/56" "웹서비스"
-    click A1 "https://github.com/skn-ai14-250409/web_client_workspace" "Web Client - HTML/CSS/Javascript"
-    click A2 "https://github.com/skn-ai14-250409/django_workspace" "Web Server - Django"
-    click A3 "https://github.com/skn-ai14-250409/devops_workspace" "DevOps - Linux/Cloud"
 
 ```
 
