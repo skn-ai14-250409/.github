@@ -14,10 +14,83 @@
 
 ![](https://cdn.imweb.me/upload/S20240314bd10436a7991a/41a9769cc44e6.png)
 
+## 프로젝트 소스코드 저장소 
+
+### [05_최종프로젝트](https://github.com/orgs/skn-ai14-250409/projects/72) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+
+
+```mermaid
+graph TD
+    
+    subgraph 최종프로젝트
+        A1[SKN14-Final-1Team Project]
+        A2[SKN14-Final-2Team Project]
+        A3[SKN14-Final-3Team Project]
+        A4[SKN14-Final-4Team Project]
+        A6[SKN14-Final-6Team Project]
+
+        %% B1["SKN14-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN14-Final-1Team<br>LLM 활용 내부 고객 업무 효율성 향상을 위한 문서검색 시스템]
+        B2[SKN14-Final-2Team<br>LLM 활용 대화형 상품 추천 시스템]
+        B3[SKN14-Final-3Team<br>자체 sLLM 개발 통한 기업 업무 활용 생성형 AI 플랫폼]
+        B4[SKN14-Final-4Team<br>LLM 활용 인공지능 인플루언서 만들기]
+        B6[SKN14-Final-6Team<br> LLM 활용 고객 상담 챗봇]
+
+        %% B1["SKN14-2nd-1Team<br><sub>세부내용</sub>"]
+        C1[SKN14-Final-1Team<br>WEB]
+        C2[SKN14-Final-2Team<br>WEB]
+        C3[SKN14-Final-3Team<br>WEB]
+        C4[SKN14-Final-4Team<br>WEB]
+        C6[SKN14-Final-6Team<br>WEB]
+
+
+        %% B1["SKN14-2nd-1Team<br><sub>세부내용</sub>"]
+        D1[SKN14-Final-1Team<br>AI]
+        D2[SKN14-Final-2Team<br>AI]
+        D3[SKN14-Final-3Team<br>AI]
+        D4[SKN14-Final-4Team<br>AI]
+        D6[SKN14-Final-6Team<br>AI]
+
+        A1 -.- B1 -.- C1 -.- D1
+        A2 -.- B2 -.- C2 -.- D2
+        A3 -.- B3 -.- C3 -.- D3
+        A4 -.- B4 -.- C4 -.- D4
+        A6 -.- B6 -.- C6 -.- D6
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai14-250409/projects/57" "@SKN14-Final-1Team"
+    click A2 "https://github.com/orgs/skn-ai14-250409/projects/58" "@SKN14-Final-2Team"
+    click A3 "https://github.com/orgs/skn-ai14-250409/projects/59" "@SKN14-Final-3Team"
+    click A4 "https://github.com/orgs/skn-ai14-250409/projects/60" "@SKN14-Final-4Team"
+    click A6 "https://github.com/orgs/skn-ai14-250409/projects/61" "@SKN14-Final-6Team"
+
+    click B1 "https://github.com/skn-ai14-250409/SKN14-Final-1Team" "SKN14-Final-1Team"
+    click B2 "https://github.com/skn-ai14-250409/SKN14-Final-2Team" "SKN14-Final-2Team"
+    click B3 "https://github.com/skn-ai14-250409/SKN14-Final-3Team" "SKN14-Final-3Team"
+    click B4 "https://github.com/skn-ai14-250409/SKN14-Final-4Team" "SKN14-Final-4Team"
+    click B6 "https://github.com/skn-ai14-250409/SKN14-Final-6Team" "SKN14-Final-6Team"
+
+    click C1 "https://github.com/skn-ai14-250409/SKN14-Final-1Team-Web" "SKN14-Final-1Team"
+    click C2 "https://github.com/skn-ai14-250409/SKN14-Final-2Team-Web" "SKN14-Final-2Team"
+    click C3 "https://github.com/skn-ai14-250409/SKN14-Final-3Team-Web" "SKN14-Final-3Team"
+    click C4 "https://github.com/skn-ai14-250409/SKN14-Final-4Team-Web" "SKN14-Final-4Team"
+    click C6 "https://github.com/skn-ai14-250409/SKN14-Final-6Team-Web" "SKN14-Final-6Team"
+
+    click D1 "https://github.com/skn-ai14-250409/SKN14-Final-1Team-AI" "SKN14-Final-1Team"
+    click D2 "https://github.com/skn-ai14-250409/SKN14-Final-2Team-AI" "SKN14-Final-2Team"
+    click D3 "https://github.com/skn-ai14-250409/SKN14-Final-3Team-AI" "SKN14-Final-3Team"
+    click D4 "https://github.com/skn-ai14-250409/SKN14-Final-4Team-AI" "SKN14-Final-4Team"
+    click D6 "https://github.com/skn-ai14-250409/SKN14-Final-6Team-AI" "SKN14-Final-6Team"
+
+```
+
+
 ## 강의 소스코드 저장소 
 
 
-### [04_웹서비스 주간](https://github.com/orgs/skn-ai14-250409/projects/56) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [04_웹서비스 주간](https://github.com/orgs/skn-ai14-250409/projects/56) 
 ```mermaid
 graph TD
     A[04_웹서비스 주간]
