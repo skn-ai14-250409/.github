@@ -60,11 +60,11 @@ graph TD
             
 
     end
-    click A1 "https://github.com/orgs/skn-ai14-250409/projects/57" "@SKN14-Final-1Team"
-    click A2 "https://github.com/orgs/skn-ai14-250409/projects/58" "@SKN14-Final-2Team"
-    click A3 "https://github.com/orgs/skn-ai14-250409/projects/59" "@SKN14-Final-3Team"
-    click A4 "https://github.com/orgs/skn-ai14-250409/projects/60" "@SKN14-Final-4Team"
-    click A6 "https://github.com/orgs/skn-ai14-250409/projects/61" "@SKN14-Final-6Team"
+    click A1 "https://github.com/orgs/skn-ai14-250409/projects/67" "@SKN14-Final-1Team"
+    click A2 "https://github.com/orgs/skn-ai14-250409/projects/68" "@SKN14-Final-2Team"
+    click A3 "https://github.com/orgs/skn-ai14-250409/projects/69" "@SKN14-Final-3Team"
+    click A4 "https://github.com/orgs/skn-ai14-250409/projects/70" "@SKN14-Final-4Team"
+    click A6 "https://github.com/orgs/skn-ai14-250409/projects/71" "@SKN14-Final-6Team"
 
     click B1 "https://github.com/skn-ai14-250409/SKN14-Final-1Team" "SKN14-Final-1Team"
     click B2 "https://github.com/skn-ai14-250409/SKN14-Final-2Team" "SKN14-Final-2Team"
